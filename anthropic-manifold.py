@@ -1,6 +1,6 @@
 """
 title: Anthropic Manifold Pipe (with Claude 4)
-authors: Jonathan Flower
+authors: Jonathan Flower and justinh-rahb and christian-taillon
 author_url: https://github.com/jfbloom22/open-webui-anthropic-manifold.git
 version: 0.0.1
 required_open_webui_version: 0.3.17
